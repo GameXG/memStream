@@ -1,4 +1,6 @@
 # memStream
+[![Build Status](https://travis-ci.org/GameXG/memStream.svg)](https://travis-ci.org/GameXG/memStream)
+
 内存流 ，实现了 read、write、seek、close、writeTo 等方法。空间不足时自动增加空间。
 
 ## 实现的接口
